@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Ondrej Smutny aka @Trist69
-- 👀 I’m interested in ABAP / Fiori / Javascript / CDS / SAP CAP
-- 🌱 I’m currently learning python / javascript / CDS
+- 👋 Hi, i’m Ondrej Smutny aka @trist69
+- 👀 I’m interested in abap / fiori / javascript / cds / sap ap
+- 🌱 I’m currently learning python / javascript / cds / mojo
 
 
 
